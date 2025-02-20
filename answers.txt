@@ -13,3 +13,15 @@ stocks. One example of this is when traders use data like stock market
 trends and historical stock prices in order to predict future stock 
 prices. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging and rebasing are both used when trying to integrate 
+changes from one branch to the other. Merging works by making a new 
+merge commit which keeps the history of both branches. It will show
+when branches formed and joined/merged together. A downside of this 
+is that it can create extra commits and can also create merge conflicts.
+On the other hand, rebasing works by replaying changes from one branch 
+on top of the other branch. Commit history is rewritten so it looks like 
+all work was done linearly on a single branch. Any indication that separate 
+branches existed will be gone. 
+
