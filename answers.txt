@@ -25,3 +25,9 @@ on top of the other branch. Commit history is rewritten so it looks like
 all work was done linearly on a single branch. Any indication that separate 
 branches existed will be gone. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about how to use Python for 
+different data science applications. I'm also excited to learn a little bit 
+of machine learning and overall strenghten my current knowledge of data 
+science.
